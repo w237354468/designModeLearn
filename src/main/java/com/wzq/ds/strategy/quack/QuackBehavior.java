@@ -1,2 +1,6 @@
-package java.com.wzq.ds.strategy;public interface QuackBehavior {
+package com.wzq.ds.strategy.quack;
+
+public interface QuackBehavior {
+
+    void quack();
 }
